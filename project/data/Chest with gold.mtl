@@ -1,0 +1,239 @@
+# Max2Mtl Version 4.0 Mar 10th, 2001
+#
+# Multi/Sub Material__123 (2) to come 
+#
+newmtl Standard
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Standard_2
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+# Multi/Sub Material__123 done 
+#
+newmtl Standard
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+# Multi/Sub Material__112 (2) to come 
+#
+newmtl coin2
+Ka  0.8 0.8 0.8
+Kd  0.8 0.8 0.8
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl coin1
+Ka  0.8 0.8 0.8
+Kd  0.8 0.8 0.8
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  10.0
+illum 2
+#
+# Multi/Sub Material__112 done 
+#
+newmtl w
+Ka  0.7 0.7 0.5
+Kd  0.7 0.7 0.5
+Ks  0.2 0.2 0.2
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl goldd
+Ka  0.3 0.2 0.1
+Kd  0.3 0.2 0.1
+Ks  0.9 0.7 0.5
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl wood_liq
+Ka  0.7 0.7 0.5
+Kd  0.7 0.7 0.5
+Ks  0.2 0.2 0.2
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl chrome08_210
+Ka  0.0 0.0 0.0
+Kd  0.0 0.0 0.0
+Ks  0.7 0.7 0.7
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl Leather_besh
+Ka  1.0 1.0 0.9
+Kd  1.0 1.0 0.9
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl chrome08_2101
+Ka  0.0 0.0 0.0
+Kd  0.0 0.0 0.0
+Ks  0.7 0.7 0.7
+d  1.0
+Ns  10.0
+illum 2
+#
+# Multi/Sub Material__101 (2) to come 
+#
+newmtl coin2
+Ka  0.8 0.8 0.8
+Kd  0.8 0.8 0.8
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl coin1
+Ka  0.8 0.8 0.8
+Kd  0.8 0.8 0.8
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  10.0
+illum 2
+#
+# Multi/Sub Material__101 done 
+#
+# Multi/Sub Material__90 (2) to come 
+#
+newmtl coin2
+Ka  0.8 0.8 0.8
+Kd  0.8 0.8 0.8
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl coin1
+Ka  0.8 0.8 0.8
+Kd  0.8 0.8 0.8
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  10.0
+illum 2
+#
+# Multi/Sub Material__90 done 
+#
+# Multi/Sub Material__79 (2) to come 
+#
+newmtl coin2
+Ka  0.8 0.8 0.8
+Kd  0.8 0.8 0.8
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl coin1
+Ka  0.8 0.8 0.8
+Kd  0.8 0.8 0.8
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  10.0
+illum 2
+#
+# Multi/Sub Material__79 done 
+#
+# Multi/Sub Material__68 (2) to come 
+#
+newmtl coin2
+Ka  0.8 0.8 0.8
+Kd  0.8 0.8 0.8
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl coin1
+Ka  0.8 0.8 0.8
+Kd  0.8 0.8 0.8
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  10.0
+illum 2
+#
+# Multi/Sub Material__68 done 
+#
+# Multi/Sub Material__57 (2) to come 
+#
+newmtl coin2
+Ka  0.8 0.8 0.8
+Kd  0.8 0.8 0.8
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl coin1
+Ka  0.8 0.8 0.8
+Kd  0.8 0.8 0.8
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  10.0
+illum 2
+#
+# Multi/Sub Material__57 done 
+#
+# Multi/Sub Material__46 (2) to come 
+#
+newmtl coin2
+Ka  0.8 0.8 0.8
+Kd  0.8 0.8 0.8
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl coin1
+Ka  0.8 0.8 0.8
+Kd  0.8 0.8 0.8
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  10.0
+illum 2
+#
+# Multi/Sub Material__46 done 
+#
+# Multi/Sub Material__35 (2) to come 
+#
+newmtl coin2
+Ka  0.8 0.8 0.8
+Kd  0.8 0.8 0.8
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl coin1
+Ka  0.8 0.8 0.8
+Kd  0.8 0.8 0.8
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  10.0
+illum 2
+#
+# Multi/Sub Material__35 done 
+#
+# EOF
